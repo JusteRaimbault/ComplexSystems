@@ -4,3 +4,18 @@
 [submodule "Biblio/DomainSpecific"]
 	path = Biblio/DomainSpecific
 	url = git@github.com:JusteRaimbault/DomainSpecific.git
+[submodule "CityNetwork"]
+	path = CityNetwork
+	url = git@github.com:JusteRaimbault/CityNetwork.git
+[submodule "EnergyPrice"]
+	path = EnergyPrice
+	url = git@github.com:JusteRaimbault/EnergyPrice.git
+[submodule "MediationEcotox"]
+	path = MediationEcotox
+	url = git@github.com:JusteRaimbault/MediationEcotox.git
+[submodule "RealEstate"]
+	path = RealEstate
+	url = git@github.com:JusteRaimbault/RealEstate.git
+[submodule "UrbanGrowth"]
+	path = UrbanGrowth
+	url = git@github.com:JusteRaimbault/UrbanGrowth.git
