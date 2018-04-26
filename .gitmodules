@@ -1,0 +1,3 @@
+[submodule "CircularEconomy"]
+	path = CircularEconomy
+	url = git@github.com:SFICSSS16-CircularEconomy/CircularEconomy.git
