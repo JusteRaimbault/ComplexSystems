@@ -1,3 +1,6 @@
 [submodule "CircularEconomy"]
 	path = CircularEconomy
 	url = git@github.com:SFICSSS16-CircularEconomy/CircularEconomy.git
+[submodule "Biblio/DomainSpecific"]
+	path = Biblio/DomainSpecific
+	url = git@github.com:JusteRaimbault/DomainSpecific.git
