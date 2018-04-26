@@ -19,3 +19,18 @@
 [submodule "UrbanGrowth"]
 	path = UrbanGrowth
 	url = git@github.com:JusteRaimbault/UrbanGrowth.git
+[submodule "TransportationEquilibrium"]
+	path = TransportationEquilibrium
+	url = git@github.com:JusteRaimbault/TransportationEquilibrium.git
+[submodule "Governance"]
+	path = Governance
+	url = git@github.com:JusteRaimbault/Governance.git
+[submodule "Organisation"]
+	path = Organisation
+	url = git@github.com:JusteRaimbault/Organisation.git
+[submodule "SimulationModels"]
+	path = SimulationModels
+	url = git@github.com:JusteRaimbault/SimulationModels.git
+[submodule "Morphogenesis"]
+	path = Morphogenesis
+	url = git@github.com:JusteRaimbault/Morphogenesis.git
