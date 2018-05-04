@@ -34,3 +34,6 @@
 [submodule "Morphogenesis"]
 	path = Morphogenesis
 	url = git@github.com:JusteRaimbault/Morphogenesis.git
+[submodule "Perspectivism"]
+	path = Perspectivism
+	url = git@github.com:JusteRaimbault/Perspectivism.git
