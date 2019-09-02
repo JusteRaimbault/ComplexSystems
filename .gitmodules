@@ -64,3 +64,6 @@
 [submodule "Reviews"]
 	path = Reviews
 	url = git@github.com:JusteRaimbault/Reviews.git
+[submodule "Schools"]
+	path = Schools
+	url = git@github.com:JusteRaimbault/Schools.git
