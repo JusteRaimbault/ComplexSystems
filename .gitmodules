@@ -46,3 +46,6 @@
 [submodule "SpaceMatters"]
 	path = SpaceMatters
 	url = git@github.com:JusteRaimbault/SpaceMattersAll.git
+[submodule "Biblio"]
+	path = Biblio
+	url = git@github.com:JusteRaimbault/Biblio.git
