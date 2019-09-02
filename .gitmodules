@@ -67,3 +67,6 @@
 [submodule "Schools"]
 	path = Schools
 	url = git@github.com:JusteRaimbault/Schools.git
+[submodule "Cybergeo"]
+	path = Cybergeo
+	url = git@github.com:JusteRaimbault/Cybergeo.git
