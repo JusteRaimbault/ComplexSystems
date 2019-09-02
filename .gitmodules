@@ -37,3 +37,6 @@
 [submodule "Perspectivism"]
 	path = Perspectivism
 	url = git@github.com:JusteRaimbault/Perspectivism.git
+[submodule "Misc"]
+	path = Misc
+	url = git@github.com:JusteRaimbault/Misc.git
