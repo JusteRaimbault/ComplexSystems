@@ -52,3 +52,6 @@
 [submodule "ComplexitiesIntegration"]
 	path = ComplexitiesIntegration
 	url = git@github.com:JusteRaimbault/ComplexitiesIntegration.git
+[submodule "Conferences"]
+	path = Conferences
+	url = git@github.com:JusteRaimbault/Conferences.git
