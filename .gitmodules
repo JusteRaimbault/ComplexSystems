@@ -55,3 +55,6 @@
 [submodule "Conferences"]
 	path = Conferences
 	url = git@github.com:JusteRaimbault/Conferences.git
+[submodule "NoisyEA"]
+	path = NoisyEA
+	url = git@github.com:JusteRaimbault/NoisyEA.git
