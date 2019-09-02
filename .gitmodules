@@ -43,3 +43,6 @@
 [submodule "UrbanMorphology"]
 	path = UrbanMorphology
 	url = git@github.com:JusteRaimbault/UrbanMorphology.git
+[submodule "SpaceMatters"]
+	path = SpaceMatters
+	url = git@github.com:JusteRaimbault/SpaceMattersAll.git
