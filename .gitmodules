@@ -61,3 +61,6 @@
 [submodule "PatentsMining"]
 	path = PatentsMining
 	url = git@github.com:JusteRaimbault/PatentsMining.git
+[submodule "Reviews"]
+	path = Reviews
+	url = git@github.com:JusteRaimbault/Reviews.git
