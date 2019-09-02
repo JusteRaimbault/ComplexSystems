@@ -73,3 +73,9 @@
 [submodule "HealthMobility"]
 	path = HealthMobility
 	url = git@github.com:JusteRaimbault/HealthMobility.git
+[submodule "InnovationDiffusion"]
+	path = InnovationDiffusion
+	url = git@github.com:JusteRaimbault/InnovationDiffusion.git
+[submodule "ReactionDiffusion"]
+	path = ReactionDiffusion
+	url = git@github.com:JusteRaimbault/ReactionDiffusion.git
