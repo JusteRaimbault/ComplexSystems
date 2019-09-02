@@ -58,3 +58,6 @@
 [submodule "NoisyEA"]
 	path = NoisyEA
 	url = git@github.com:JusteRaimbault/NoisyEA.git
+[submodule "PatentsMining"]
+	path = PatentsMining
+	url = git@github.com:JusteRaimbault/PatentsMining.git
