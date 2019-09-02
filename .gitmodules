@@ -40,3 +40,6 @@
 [submodule "Misc"]
 	path = Misc
 	url = git@github.com:JusteRaimbault/Misc.git
+[submodule "UrbanMorphology"]
+	path = UrbanMorphology
+	url = git@github.com:JusteRaimbault/UrbanMorphology.git
