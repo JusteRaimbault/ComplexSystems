@@ -49,3 +49,6 @@
 [submodule "Biblio"]
 	path = Biblio
 	url = git@github.com:JusteRaimbault/Biblio.git
+[submodule "ComplexitiesIntegration"]
+	path = ComplexitiesIntegration
+	url = git@github.com:JusteRaimbault/ComplexitiesIntegration.git
