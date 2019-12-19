@@ -85,3 +85,6 @@
 [submodule "Softwares"]
 	path = Softwares
 	url = git@github.com:JusteRaimbault/Softwares.git
+[submodule "CoevolutionNwTerritories"]
+	path = CoevolutionNwTerritories
+	url = git@github.com:JusteRaimbault/CoevolutionNwTerritories.git
