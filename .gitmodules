@@ -88,3 +88,21 @@
 [submodule "CoevolutionNwTerritories"]
 	path = CoevolutionNwTerritories
 	url = git@github.com:JusteRaimbault/CoevolutionNwTerritories.git
+[submodule "BioNetworkGeneration"]
+	path = BioNetworkGeneration
+	url = git@github.com:JusteRaimbault/BioNetworkGeneration.git
+[submodule "CarPooling"]
+	path = CarPooling
+	url = git@github.com:JusteRaimbault/CarPooling.git
+[submodule "ChinaAccessibility"]
+	path = ChinaAccessibility
+	url = git@github.com:JusteRaimbault/ChinaAccessibility.git
+[submodule "CityBikes"]
+	path = CityBikes
+	url = git@github.com:JusteRaimbault/CityBikes.git
+[submodule "Data"]
+	path = Data
+	url = git@github.com:JusteRaimbault/Data.git
+[submodule "FilmsMining"]
+	path = FilmsMining
+	url = git@github.com:JusteRaimbault/FilmsMining.git
