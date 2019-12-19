@@ -106,3 +106,36 @@
 [submodule "FilmsMining"]
 	path = FilmsMining
 	url = git@github.com:JusteRaimbault/FilmsMining.git
+[submodule "FinancialNetwork"]
+	path = FinancialNetwork
+	url = git@github.com:JusteRaimbault/FinancialNetwork.git
+[submodule "GenerativePoetry"]
+	path = GenerativePoetry
+	url = git@github.com:JusteRaimbault/GenerativePoetry.git
+[submodule "LanguageEvolution"]
+	path = LanguageEvolution
+	url = git@github.com:JusteRaimbault/LanguageEvolution.git
+[submodule "MediationIncubator"]
+	path = MediationIncubator
+	url = git@github.com:JusteRaimbault/MediationIncubator.git
+[submodule "MigrationDynamics"]
+	path = MigrationDynamics
+	url = git@github.com:JusteRaimbault/MigrationDynamics.git
+[submodule "MusicEvolution"]
+	path = MusicEvolution
+	url = git@github.com:JusteRaimbault/MusicEvolution.git
+[submodule "OrienteeringDev"]
+	path = OrienteeringDev
+	url = git@github.com:orienteeringdev/orienteeringdev.git
+[submodule "OptimalDistance"]
+	path = OptimalDistance
+	url = git@github.com:JusteRaimbault/OptimalDistance.git
+[submodule "QuantEpistemo"]
+	path = QuantEpistemo
+	url = git@github.com:JusteRaimbault/QuantEpistemo.git
+[submodule "Seminars"]
+	path = Seminars
+	url = git@github.com:JusteRaimbault/Seminars.git
+[submodule "SocialDynamics"]
+	path = SocialDynamics
+	url = git@github.com:JusteRaimbault/SocialDynamics.git
