@@ -139,3 +139,39 @@
 [submodule "SocialDynamics"]
 	path = SocialDynamics
 	url = git@github.com:JusteRaimbault/SocialDynamics.git
+[submodule "SpatialComplexity"]
+	path = SpatialComplexity
+	url = git@github.com:JusteRaimbault/SpatialComplexity.git
+[submodule "SpatialData"]
+	path = SpatialData
+	url = git@github.com:openmole/spatialdata.git
+[submodule "SpatioTemporalStationarity"]
+	path = SpatioTemporalStationarity
+	url = git@github.com:JusteRaimbault/SpatioTemporalStationarity.git
+[submodule "Teaching"]
+	path = Teaching
+	url = git@github.com:JusteRaimbault/Teaching.git
+[submodule "Tools/TorPool"]
+	path = Tools/TorPool
+	url = git@github.com:JusteRaimbault/TorPool.git
+[submodule "TransferEntropy"]
+	path = TransferEntropy
+	url = git@github.com:JusteRaimbault/TransferEntropy.git
+[submodule "TransportationNetwork"]
+	path = TransportationNetwork
+	url = git@github.com:JusteRaimbault/TransportationNetwork.git
+[submodule "TransportationResilience"]
+	path = TransportationResilience
+	url = git@github.com:JusteRaimbault/TransportationResilience.git
+[submodule "UrbanDynamics"]
+	path = UrbanDynamics
+	url = git@github.com:JusteRaimbault/UrbanDynamics.git
+[submodule "UrbanEvolution"]
+	path = UrbanEvolution
+	url = git@github.com:JusteRaimbault/UrbanEvolution.git
+[submodule "UrbanMorphogenesis"]
+	path = UrbanMorphogenesis
+	url = git@github.com:JusteRaimbault/UrbanMorphogenesis.git
+[submodule "UrbanResilience"]
+	path = UrbanResilience
+	url = git@github.com:JusteRaimbault/UrbanResilience.git
