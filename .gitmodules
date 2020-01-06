@@ -175,3 +175,6 @@
 [submodule "UrbanResilience"]
 	path = UrbanResilience
 	url = git@github.com:JusteRaimbault/UrbanResilience.git
+[submodule "PowerGrid"]
+	path = PowerGrid
+	url = git@github.com:JusteRaimbault/PowerGrid.git
