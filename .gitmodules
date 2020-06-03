@@ -81,7 +81,7 @@
 	url = git@github.com:JusteRaimbault/ReactionDiffusion.git
 [submodule "OpenMole"]
 	path = OpenMole
-	url = git@github.com:JusteRaimbault/OpenMole.git
+	url = git@github.com:JusteRaimbault/OpenMole-all.git
 [submodule "Softwares"]
 	path = Softwares
 	url = git@github.com:JusteRaimbault/Softwares.git
