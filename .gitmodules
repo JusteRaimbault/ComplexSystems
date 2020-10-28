@@ -178,3 +178,9 @@
 [submodule "PowerGrid"]
 	path = PowerGrid
 	url = git@github.com:JusteRaimbault/PowerGrid.git
+[submodule "MobilityEpidemio"]
+	path = MobilityEpidemio
+	url = git@github.com:JusteRaimbault/MobilityEpidemio.git
+[submodule "LearningAgents"]
+	path = LearningAgents
+	url = git@github.com:JusteRaimbault/LearningAgents.git
