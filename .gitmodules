@@ -8,7 +8,7 @@
 	path = CityNetwork
 	url = git@github.com:JusteRaimbault/CityNetwork.git
 [submodule "EnergyPrice"]
-	path = EnergyPrice
+	path = Transportation/EnergyPrice
 	url = git@github.com:JusteRaimbault/EnergyPrice.git
 [submodule "MediationEcotox"]
 	path = MediationEcotox
@@ -20,7 +20,7 @@
 	path = UrbanGrowth
 	url = git@github.com:JusteRaimbault/UrbanGrowth.git
 [submodule "TransportationEquilibrium"]
-	path = TransportationEquilibrium
+	path = Transportation/TransportationEquilibrium
 	url = git@github.com:JusteRaimbault/TransportationEquilibrium.git
 [submodule "Governance"]
 	path = Governance
@@ -86,19 +86,19 @@
 	path = Softwares
 	url = git@github.com:JusteRaimbault/Softwares.git
 [submodule "CoevolutionNwTerritories"]
-	path = CoevolutionNwTerritories
+	path = NetworksTerritories/CoevolutionNwTerritories
 	url = git@github.com:JusteRaimbault/CoevolutionNwTerritories.git
 [submodule "BioNetworkGeneration"]
 	path = BioNetworkGeneration
 	url = git@github.com:JusteRaimbault/BioNetworkGeneration.git
 [submodule "CarPooling"]
-	path = CarPooling
+	path = Transportation/CarPooling
 	url = git@github.com:JusteRaimbault/CarPooling.git
 [submodule "ChinaAccessibility"]
-	path = ChinaAccessibility
+	path = NetworksTerritories/ChinaAccessibility
 	url = git@github.com:JusteRaimbault/ChinaAccessibility.git
 [submodule "CityBikes"]
-	path = CityBikes
+	path = Transportation/CityBikes
 	url = git@github.com:JusteRaimbault/CityBikes.git
 [submodule "Data"]
 	path = Data
@@ -158,10 +158,10 @@
 	path = TransferEntropy
 	url = git@github.com:JusteRaimbault/TransferEntropy.git
 [submodule "TransportationNetwork"]
-	path = TransportationNetwork
+	path = Transportation/TransportationNetwork
 	url = git@github.com:JusteRaimbault/TransportationNetwork.git
 [submodule "TransportationResilience"]
-	path = TransportationResilience
+	path = Transportation/TransportationResilience
 	url = git@github.com:JusteRaimbault/TransportationResilience.git
 [submodule "UrbanDynamics"]
 	path = UrbanDynamics
