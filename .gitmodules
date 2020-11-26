@@ -35,7 +35,7 @@
 	path = Morphogenesis
 	url = git@github.com:JusteRaimbault/Morphogenesis.git
 [submodule "Perspectivism"]
-	path = Perspectivism
+	path = QuantitativeEpistemology/Perspectivism
 	url = git@github.com:JusteRaimbault/Perspectivism.git
 [submodule "Misc"]
 	path = Misc
@@ -50,7 +50,7 @@
 	path = Biblio
 	url = git@github.com:JusteRaimbault/Biblio.git
 [submodule "ComplexitiesIntegration"]
-	path = ComplexitiesIntegration
+	path = QuantitativeEpistemology/ComplexitiesIntegration
 	url = git@github.com:JusteRaimbault/ComplexitiesIntegration.git
 [submodule "Conferences"]
 	path = Conferences
@@ -59,7 +59,7 @@
 	path = NoisyEA
 	url = git@github.com:JusteRaimbault/NoisyEA.git
 [submodule "PatentsMining"]
-	path = PatentsMining
+	path = QuantitativeEpistemology/PatentsMining
 	url = git@github.com:JusteRaimbault/PatentsMining.git
 [submodule "Reviews"]
 	path = Reviews
@@ -68,7 +68,7 @@
 	path = Schools
 	url = git@github.com:JusteRaimbault/Schools.git
 [submodule "Cybergeo"]
-	path = Cybergeo
+	path = QuantitativeEpistemology/Cybergeo
 	url = git@github.com:JusteRaimbault/Cybergeo.git
 [submodule "HealthMobility"]
 	path = HealthMobility
@@ -104,7 +104,7 @@
 	path = Data
 	url = git@github.com:JusteRaimbault/Data.git
 [submodule "FilmsMining"]
-	path = FilmsMining
+	path = QuantitativeEpistemology/FilmsMining
 	url = git@github.com:JusteRaimbault/FilmsMining.git
 [submodule "FinancialNetwork"]
 	path = FinancialNetwork
@@ -113,7 +113,7 @@
 	path = GenerativePoetry
 	url = git@github.com:JusteRaimbault/GenerativePoetry.git
 [submodule "LanguageEvolution"]
-	path = LanguageEvolution
+	path = QuantitativeEpistemology/LanguageEvolution
 	url = git@github.com:JusteRaimbault/LanguageEvolution.git
 [submodule "MediationIncubator"]
 	path = MediationIncubator
@@ -131,7 +131,7 @@
 	path = OptimalDistance
 	url = git@github.com:JusteRaimbault/OptimalDistance.git
 [submodule "QuantEpistemo"]
-	path = QuantEpistemo
+	path = QuantitativeEpistemology/QuantEpistemo
 	url = git@github.com:JusteRaimbault/QuantEpistemo.git
 [submodule "Seminars"]
 	path = Seminars
@@ -182,5 +182,5 @@
 	path = MobilityEpidemio
 	url = git@github.com:JusteRaimbault/MobilityEpidemio.git
 [submodule "LearningAgents"]
-	path = LearningAgents
+	path = QuantitativeEpistemology/LearningAgents
 	url = git@github.com:JusteRaimbault/LearningAgents.git
