@@ -181,3 +181,6 @@
 [submodule "LearningAgents"]
 	path = QuantitativeEpistemology/LearningAgents
 	url = git@github.com:JusteRaimbault/LearningAgents.git
+[submodule "Misc"]
+	path = Misc
+	url = git@github.com:JusteRaimbault/Misc.git
