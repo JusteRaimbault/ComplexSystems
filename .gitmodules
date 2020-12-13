@@ -37,9 +37,6 @@
 [submodule "Perspectivism"]
 	path = QuantitativeEpistemology/Perspectivism
 	url = git@github.com:JusteRaimbault/Perspectivism.git
-[submodule "Misc"]
-	path = Misc
-	url = git@github.com:JusteRaimbault/Misc.git
 [submodule "UrbanMorphology"]
 	path = UrbanMorphology
 	url = git@github.com:JusteRaimbault/UrbanMorphology.git
@@ -184,3 +181,6 @@
 [submodule "LearningAgents"]
 	path = QuantitativeEpistemology/LearningAgents
 	url = git@github.com:JusteRaimbault/LearningAgents.git
+[submodule "Misc-old"]
+	path = Misc-old
+	url = git@github.com:JusteRaimbault/Misc-old.git
