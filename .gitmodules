@@ -11,7 +11,7 @@
 	path = Transportation/EnergyPrice
 	url = git@github.com:JusteRaimbault/EnergyPrice.git
 [submodule "MediationEcotox"]
-	path = MediationEcotox
+	path = Mediation/MediationEcotox
 	url = git@github.com:JusteRaimbault/MediationEcotox.git
 [submodule "RealEstate"]
 	path = RealEstate
@@ -113,7 +113,7 @@
 	path = QuantitativeEpistemology/LanguageEvolution
 	url = git@github.com:JusteRaimbault/LanguageEvolution.git
 [submodule "MediationIncubator"]
-	path = MediationIncubator
+	path = Mediation/MediationIncubator
 	url = git@github.com:JusteRaimbault/MediationIncubator.git
 [submodule "MigrationDynamics"]
 	path = MigrationDynamics
@@ -184,3 +184,6 @@
 [submodule "Misc"]
 	path = Misc
 	url = git@github.com:JusteRaimbault/Misc.git
+[submodule "Mediation/MinecraftExplorer"]
+	path = Mediation/MinecraftExplorer
+	url = git@github.com:JusteRaimbault/MinecraftExplorer.git
