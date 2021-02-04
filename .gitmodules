@@ -187,3 +187,6 @@
 [submodule "Mediation/MinecraftExplorer"]
 	path = Mediation/MinecraftExplorer
 	url = git@github.com:JusteRaimbault/MinecraftExplorer.git
+[submodule "Transportation/ReportMasse"]
+	path = Transportation/ReportMasse
+	url = git@github.com:JusteRaimbault/ReportMasse-all.git
