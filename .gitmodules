@@ -190,3 +190,6 @@
 [submodule "Transportation/ReportMasse"]
 	path = Transportation/ReportMasse
 	url = git@github.com:JusteRaimbault/ReportMasse-all.git
+[submodule "Mediation/Mediation-Misc"]
+	path = Mediation/Mediation-Misc
+	url = git@github.com:JusteRaimbault/Mediation-Misc.git
