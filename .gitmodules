@@ -193,3 +193,9 @@
 [submodule "Mediation/Mediation-Misc"]
 	path = Mediation/Mediation-Misc
 	url = git@github.com:JusteRaimbault/Mediation-Misc.git
+[submodule "NetworksTerritories/LUTISystematicReview"]
+	path = NetworksTerritories/LUTISystematicReview
+	url = git@github.com:JusteRaimbault/LUTISystematicReview.git
+[submodule "NetworksTerritories/HistoricalData"]
+	path = NetworksTerritories/HistoricalData
+	url = git@github.com:JusteRaimbault/HistoricalData.git
