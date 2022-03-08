@@ -199,3 +199,6 @@
 [submodule "NetworksTerritories/HistoricalData"]
 	path = NetworksTerritories/HistoricalData
 	url = git@github.com:JusteRaimbault/HistoricalData.git
+[submodule "QuantitativeEpistemology/InnovationInformal"]
+	path = QuantitativeEpistemology/InnovationInformal
+	url = git@github.com:JusteRaimbault/InnovationInformal.git
