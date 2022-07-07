@@ -199,3 +199,6 @@
 [submodule "QuantitativeEpistemology/InnovationInformal"]
 	path = QuantitativeEpistemology/InnovationInformal
 	url = git@github.com:JusteRaimbault/InnovationInformal.git
+[submodule "OpenMole-all"]
+	path = OpenMole-all
+	url = git@github.com:JusteRaimbault/OpenMole-all.git
