@@ -205,3 +205,6 @@
 [submodule "Transportation/FourStepModel"]
 	path = Transportation/FourStepModel
 	url = git@github.com:JusteRaimbault/FourStepModel.git
+[submodule "Transportation/PTCoverage"]
+	path = Transportation/PTCoverage
+	url = git@github.com:JusteRaimbault/PTCoverage.git
