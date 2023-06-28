@@ -202,3 +202,6 @@
 [submodule "OpenMole-all"]
 	path = OpenMole-all
 	url = git@github.com:JusteRaimbault/OpenMole-all.git
+[submodule "Transportation/FourStepModel"]
+	path = Transportation/FourStepModel
+	url = git@github.com:JusteRaimbault/FourStepModel.git
