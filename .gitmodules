@@ -208,3 +208,12 @@
 [submodule "Transportation/PTCoverage"]
 	path = Transportation/PTCoverage
 	url = git@github.com:JusteRaimbault/PTCoverage.git
+[submodule "SDGTradeoffs"]
+	path = SDGTradeoffs
+	url = git@github.com:JusteRaimbault/SDGTradeoffs.git
+[submodule "SuburbanDensification"]
+	path = SuburbanDensification
+	url = git@github.com:JusteRaimbault/SuburbanDensification.git
+[submodule "Transportation/CyclingInfrastructure"]
+	path = Transportation/CyclingInfrastructure
+	url = git@github.com:JusteRaimbault/CyclingInfrastructure.git
