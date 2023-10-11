@@ -158,7 +158,7 @@
 	path = Transportation/TransportationResilience
 	url = git@github.com:JusteRaimbault/TransportationResilience.git
 [submodule "UrbanDynamics"]
-	path = UrbanDynamics
+	path = UrbanSystems/UrbanDynamics
 	url = git@github.com:JusteRaimbault/UrbanDynamics.git
 [submodule "UrbanEvolution"]
 	path = UrbanEvolution
