@@ -5,7 +5,7 @@
 	path = Biblio/DomainSpecific
 	url = git@github.com:JusteRaimbault/DomainSpecific.git
 [submodule "CityNetwork"]
-	path = CityNetwork
+	path = NetworksTerritories/CityNetwork
 	url = git@github.com:JusteRaimbault/CityNetwork.git
 [submodule "EnergyPrice"]
 	path = Transportation/EnergyPrice
@@ -32,7 +32,7 @@
 	path = SimulationModels
 	url = git@github.com:JusteRaimbault/SimulationModels.git
 [submodule "Morphogenesis"]
-	path = Morphogenesis
+	path = Complexity/Morphogenesis
 	url = git@github.com:JusteRaimbault/Morphogenesis.git
 [submodule "Perspectivism"]
 	path = QuantitativeEpistemology/Perspectivism
@@ -134,7 +134,7 @@
 	path = SocialDynamics
 	url = git@github.com:JusteRaimbault/SocialDynamics.git
 [submodule "SpatialComplexity"]
-	path = SpatialComplexity
+	path = Complexity/SpatialComplexity
 	url = git@github.com:JusteRaimbault/SpatialComplexity.git
 [submodule "SpatialData"]
 	path = SpatialData
@@ -149,7 +149,7 @@
 	path = Tools/TorPool
 	url = git@github.com:JusteRaimbault/TorPool.git
 [submodule "TransferEntropy"]
-	path = TransferEntropy
+	path = Complexity/TransferEntropy
 	url = git@github.com:JusteRaimbault/TransferEntropy.git
 [submodule "TransportationNetwork"]
 	path = Transportation/TransportationNetwork
