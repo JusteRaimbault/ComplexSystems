@@ -16,8 +16,8 @@
 [submodule "RealEstate"]
 	path = RealEstate
 	url = git@github.com:JusteRaimbault/RealEstate.git
-[submodule "UrbanGrowth"]
-	path = UrbanGrowth
+[submodule "UrbanSystems/UrbanGrowth"]
+	path = UrbanSystems/UrbanGrowth
 	url = git@github.com:JusteRaimbault/UrbanGrowth.git
 [submodule "TransportationEquilibrium"]
 	path = Transportation/TransportationEquilibrium
@@ -157,7 +157,7 @@
 [submodule "TransportationResilience"]
 	path = Transportation/TransportationResilience
 	url = git@github.com:JusteRaimbault/TransportationResilience.git
-[submodule "UrbanDynamics"]
+[submodule "UrbanSystems/UrbanDynamics"]
 	path = UrbanSystems/UrbanDynamics
 	url = git@github.com:JusteRaimbault/UrbanDynamics.git
 [submodule "UrbanEvolution"]
