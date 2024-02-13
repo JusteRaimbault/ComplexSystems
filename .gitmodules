@@ -119,7 +119,7 @@
 	path = MusicEvolution
 	url = git@github.com:JusteRaimbault/MusicEvolution.git
 [submodule "OrienteeringDev"]
-	path = OrienteeringDev
+	path = Orienteering
 	url = git@github.com:orienteeringdev/orienteeringdev.git
 [submodule "OptimalDistance"]
 	path = OptimalDistance
