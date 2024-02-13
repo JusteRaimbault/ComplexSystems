@@ -161,7 +161,7 @@
 	path = UrbanSystems/UrbanDynamics
 	url = git@github.com:JusteRaimbault/UrbanDynamics.git
 [submodule "UrbanEvolution"]
-	path = UrbanEvolution
+	path = UrbanSystems/UrbanEvolution
 	url = git@github.com:JusteRaimbault/UrbanEvolution.git
 [submodule "UrbanMorphogenesis"]
 	path = UrbanMorphogenesis
