@@ -217,3 +217,6 @@
 [submodule "Transportation/CyclingInfrastructure"]
 	path = Transportation/CyclingInfrastructure
 	url = git@github.com:JusteRaimbault/CyclingInfrastructure.git
+[submodule "QuantitativeEpistemology/AnalyseGeocites"]
+	path = QuantitativeEpistemology/AnalyseGeocites
+	url = git@github.com:JusteRaimbault/AnalyseGeocites.git
