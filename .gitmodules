@@ -220,3 +220,6 @@
 [submodule "QuantitativeEpistemology/AnalyseGeocites"]
 	path = QuantitativeEpistemology/AnalyseGeocites
 	url = git@github.com:JusteRaimbault/AnalyseGeocites.git
+[submodule "QuantitativeEpistemology/LASTIG_publications"]
+	path = QuantitativeEpistemology/LASTIG_publications
+	url = git@github.com:umrlastig/LASTIG_publications.git
