@@ -223,3 +223,6 @@
 [submodule "QuantitativeEpistemology/LASTIG_publications"]
 	path = QuantitativeEpistemology/LASTIG_publications
 	url = git@github.com:umrlastig/LASTIG_publications.git
+[submodule "QuantitativeEpistemology/GeoTheoQuantIntegration"]
+	path = QuantitativeEpistemology/GeoTheoQuantIntegration
+	url = git@github.com:JusteRaimbault/GeoTheoQuantIntegration.git
