@@ -104,7 +104,7 @@
 	path = FinancialNetwork
 	url = git@github.com:JusteRaimbault/FinancialNetwork.git
 [submodule "GenerativePoetry"]
-	path = GenerativePoetry
+	path = Art/GenerativePoetry
 	url = git@github.com:JusteRaimbault/GenerativePoetry.git
 [submodule "LanguageEvolution"]
 	path = QuantitativeEpistemology/LanguageEvolution
@@ -226,3 +226,6 @@
 [submodule "QuantitativeEpistemology/GeoTheoQuantIntegration"]
 	path = QuantitativeEpistemology/GeoTheoQuantIntegration
 	url = git@github.com:JusteRaimbault/GeoTheoQuantIntegration.git
+[submodule "Art/Art"]
+	path = Art/Art
+	url = git@github.com:JusteRaimbault/Art.git
