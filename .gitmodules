@@ -232,3 +232,6 @@
 [submodule "QuantitativeEpistemology/MetaZipf"]
 	path = QuantitativeEpistemology/MetaZipf
 	url = git@github.com:JusteRaimbault/MetaZipf.git
+[submodule "NetworkGrowth"]
+	path = NetworkGrowth
+	url = git@github.com:JusteRaimbault/NetworkGrowth.git
