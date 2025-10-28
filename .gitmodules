@@ -229,3 +229,6 @@
 [submodule "Art/Art"]
 	path = Art/Art
 	url = git@github.com:JusteRaimbault/Art.git
+[submodule "QuantitativeEpistemology/MetaZipf"]
+	path = QuantitativeEpistemology/MetaZipf
+	url = git@github.com:JusteRaimbault/MetaZipf.git
